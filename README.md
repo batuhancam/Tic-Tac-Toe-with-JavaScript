@@ -5,11 +5,11 @@
   <img src="https://i.hizliresim.com/hzAdxs.jpg">
   
   
-- ## X Wins!
+- ## X's Wins!
   <img src="https://i.hizliresim.com/eH4b25.jpg">
   
   
-- ## O Wins!
+- ## O's Wins!
   <img src="https://i.hizliresim.com/DuK0E9.jpg">
 
 - ## Draw!
