@@ -2,4 +2,4 @@
 
 
 - ## When you open index.html
-![asd](https://prnt.sc/u6oe3i) 
+![asd](https://prnt.sc/u6oe3i?raw=true "AA") 
