@@ -2,4 +2,6 @@
 
 
 - ## When you open index.html
-![asd](https://prnt.sc/u6oe3i?raw=true "AA") 
+<p align="center">
+  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+</p>
