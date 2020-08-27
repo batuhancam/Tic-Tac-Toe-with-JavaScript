@@ -2,6 +2,4 @@
 
 
 - ## When you open index.html
-<p align="center">
-  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
-</p>
+  <img width="500" src="https://prnt.sc/u6oe3i">
